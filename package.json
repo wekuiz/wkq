@@ -4,5 +4,8 @@
   "dependencies": {
     "express": "^4.13.1",
     "node-altcoin": "^0.1.2"
+  },
+  "scripts":{
+    "start":"node index.js"
   }
 }
